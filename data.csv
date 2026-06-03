@@ -1,0 +1,6 @@
+age,salary,gender,city,target
+22,30000,Male,Chennai,0
+28,50000,Female,Bangalore,1
+35,70000,Male,Mumbai,1
+40,,Female,Delhi,0
+,45000,Male,Chennai,1

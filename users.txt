@@ -1,0 +1,3 @@
+amrita,amrita@example.com
+kiran,kiran@example.com
+siva,siva@example.com
